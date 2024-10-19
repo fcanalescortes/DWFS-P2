@@ -1,5 +1,3 @@
-# DWFS-P2
-
 # PROYECTO 2: Sistema de Votación en JavaScript
 
 ## Descripción
