@@ -17,10 +17,10 @@ Este proyecto consiste en la elaboración de un programa en JavaScript que permi
 - **`POO/`**: Proyecto desarrollado en Programación Orientada a Objetos.
 - **`PF/`**: Proyecto desarrollado en Programación Funcional.
 
-## Uso
+## Solución
 
 1. **Crear una encuesta**: Accede a la interfaz y proporciona el título de la encuesta y las opciones de respuesta.
-2. **Votar**: Selecciona una opción en la encuesta activa y haz clic en "Votar".
+2. **Votar**: Selecciona una opción en la encuesta.
 3. **Ver resultados**: Los resultados se actualizarán automáticamente y se mostrarán en la página.
 
 ## Contacto
